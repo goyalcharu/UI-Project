@@ -16,25 +16,25 @@ We have created 9 pages that are home page, products, product detail, cart, chec
 The user can see the type of products that are available like hampers, frames and boxes; Polaroids and Bookmarks; Printed tees and Jackets; Clay rings and Handmade earrings; Masks and Stickers. In addition, the user can view the latest arrivals and customize his or her order. The user can search for products by entering the search term into the search textbox provided on the top. This text box is watermarked with the words “Search” to let the user know that this is the place to enter the search terms.
 The home page also provides information on new deals or discounts that the site is offering, as well as a description of the services we offer, which include Secure Payment, PAN India Delivery, Return, and 24/7 Customer Support. We can learn about user ratings and reviews of the website.
 
-*About Products: *
+*About Products:*
 The user will be able to explore the items we provide on this page, as well as sort the products by newest arrivals, most sold products, and popular in demand. They may also filter the website by the price range in which they want to find their desired products.
 
-*About Product Detail: *
+*About Product Detail:*
 This page contains information on the product we have chosen, as well as comprehensive information about it, such as the product price, number, sizes, and color. It also provides users with product specifications as well as feedback from prior users.
 
-*About Cart: *
+*About Cart:*
 The page displays a list of products we have added to the basket, including their price, quantity, and total amount. It also provides a cart summary and the amount we must pay, as well as the delivery cost. We may also apply for a coupon code if one is available for any of the products.
 
-*About Checkout: *
+*About Checkout:*
 This page prompts the customer to provide all of the essential information to purchase the product, such as name, address, phone number, email address, nation, state, city, zip code, and so on. Also, provide the grand amount of the things we have bought, as well as payment options that the customer is comfortable with, such as Paypal, Cash on Delivery, Direct Bank Transfer, and so on.
 
-*About myaccount: *
+*About myaccount:*
 This page contains details regarding our website. It features a dashboard that shows the user's orders, payment method, address, and account information. The user can also log out of the page.
 
-*About Wishlist: *
+*About Wishlist:*
 This page essentially specifies the product that the customer wishes to purchase in the future... such as a future wishlist.
 
-*About Contact Us: *
+*About Contact Us:*
 This website allows users to contact us and also locate our location via the map and address provided.
 
 #### Back-end
